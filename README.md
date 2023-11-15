@@ -1,9 +1,7 @@
 # Projeto Cordel
 Projeto do Cordel de Milton Duarte, com efeito Parallax
 
-## 
-
-### [Link do Projeto](https://wandersondantaas.github.io/projeto-cordel/)
+## [Link do Projeto](https://wandersondantaas.github.io/projeto-cordel/)
 
 ### Desenvolvido com HTML e CSS.
 <div style="display: inline_block" >
