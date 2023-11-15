@@ -1,5 +1,5 @@
 # Projeto Cordel
-Projeto do Cordel de Milton Duarte, com efeito Parallax
+Projeto Cordel, da poesia de Milton Duarte.
 
 ## [Link do Projeto](https://wandersondantaas.github.io/projeto-cordel/)
 
